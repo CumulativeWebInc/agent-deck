@@ -490,6 +490,24 @@
    "white_label_licensable": true,
    "pricing": null,
    "storefront_page": "https://cumulativewebinc.github.io/agent-deck/products/cuefinder/"
+  },
+  {
+   "name": "Attitude Engine",
+   "slug": "attitude-engine",
+   "gear": "attitude-engine",
+   "department": "chief",
+   "version": "1.0.0",
+   "status": "LIVE",
+   "data_truth": "LIVE",
+   "purpose": "Turn identity + attitude into agent behavior: a pure, zero-dependency function that transforms a machine-readable Attitude Profile into a Behavior Card (config JSON + system prompt + non-overridable bounds).",
+   "who_for": "AI developers and agent builders who need machine-readable personality with hard safety bounds",
+   "live_url": "https://cumulativewebinc.github.io/cwi-attitude-engine/",
+   "item_card_url": "https://cumulativewebinc.github.io/cwi-attitude-engine/.well-known/agent-card.json",
+   "license_terms": "https://cumulativewebinc.github.io/agent-deck/license/ (DRAFT)",
+   "license_request": "https://github.com/CumulativeWebInc/agent-deck/issues/new?template=license-request.yml&product=attitude-engine&title=License+request%3A+Attitude+Engine",
+   "white_label_licensable": true,
+   "pricing": null,
+   "storefront_page": "https://cumulativewebinc.github.io/agent-deck/products/attitude-engine/"
   }
  ]
 }
