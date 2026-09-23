@@ -12,6 +12,7 @@
 - Pricing: NOT SET. Do not invent prices. Pricing appears here only when Black sets it.
 
 ## Machine-readable
+- Ship Week: /ship-week/ — quarterly launch ritual (5 days, 5 features, hackathon with Booth-credit bounties, $0 cash); #1 PROPOSED 2026-10-19–23; machine: /ship-week/ship-week.json; playbook: SHIP-WEEK.md.
 
 - Full catalog: /products.json — name, purpose, data-truth label, live URLs,
   license-request links, pricing (null = not set).
