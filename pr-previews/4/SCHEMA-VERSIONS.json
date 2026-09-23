@@ -1,0 +1,14 @@
+{
+  "schema_version": "cwi.schema-versions/1.0",
+  "registry": {
+    "cwi.registry/1.0": {
+      "file": "registry/registry.json",
+      "description": "Public agent/product registry index \u2014 per-product capability metadata"
+    },
+    "cwi.ship-week/1.0": {
+      "file": "ship-week/ship-week.json",
+      "description": "Ship Week machine-readable plan \u2014 status, proposed dates, days, bounties, kill rule"
+    }
+  },
+  "note": "New JSON files ship a schema_version and a registry entry in the same commit."
+}

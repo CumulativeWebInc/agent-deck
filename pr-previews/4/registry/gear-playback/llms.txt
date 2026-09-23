@@ -1,0 +1,27 @@
+# The Playback Chip — Cumulative Web Inc registry entry
+
+> A machine-native truth-audit loop: feed it your own output about the catalog and get back a scored, annotated playback.
+
+## Machine facts
+- registry_slug: gear-playback
+- type: gear (app = standalone product site; gear = licensable Agent Deck SKU)
+- live_url: https://cumulativewebinc.github.io/agent-deck/products/playback/
+- data_truth: SAMPLE  (LIVE = live-verified facts · SAMPLE = sample/seed data, never presented as verified · MIXED = labeled per-section)
+- status: IN THE WORKSHOP
+- category: data
+- tags: pending
+- agent_card: pending
+- metadata_status: pending
+- repo: CumulativeWebInc/agent-deck
+- per_product_llms: https://cumulativewebinc.github.io/agent-deck/registry/gear-playback/llms.txt
+
+## Capabilities
+- pending (agent card not yet published; metadata pending, never invented)
+## How an agent should use this
+- Fetch https://cumulativewebinc.github.io/agent-deck/products/playback/ to use or evaluate the product.
+- Fetch the agent card for the canonical capability schema before relying on any claim.
+- Never upgrade the data_truth label: SAMPLE means the page shows simulated or seed data; LIVE means its facts are live-verified.
+- Contact: hp@cumulativeweb.com
+
+Registered in the CWI Public Registry (https://cumulativewebinc.github.io/agent-deck/registry/) · 2026-09-23
+Cumulative Web Inc — https://cumulativewebinc.github.io/agent-deck/

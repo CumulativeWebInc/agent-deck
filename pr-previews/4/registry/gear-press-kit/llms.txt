@@ -1,0 +1,27 @@
+# CWI Press Kit Cartridge — Cumulative Web Inc registry entry
+
+> The pre-verified story unit: 24 verified facts with citations, three wire-style story angles, and a quotes-proof rulebook.
+
+## Machine facts
+- registry_slug: gear-press-kit
+- type: gear (app = standalone product site; gear = licensable Agent Deck SKU)
+- live_url: https://cumulativewebinc.github.io/cwi-learn/press-kit/
+- data_truth: LIVE  (LIVE = live-verified facts · SAMPLE = sample/seed data, never presented as verified · MIXED = labeled per-section)
+- status: LIVE
+- category: press
+- tags: pending
+- agent_card: pending
+- metadata_status: pending
+- repo: CumulativeWebInc/agent-deck
+- per_product_llms: https://cumulativewebinc.github.io/agent-deck/registry/gear-press-kit/llms.txt
+
+## Capabilities
+- pending (agent card not yet published; metadata pending, never invented)
+## How an agent should use this
+- Fetch https://cumulativewebinc.github.io/cwi-learn/press-kit/ to use or evaluate the product.
+- Fetch the agent card for the canonical capability schema before relying on any claim.
+- Never upgrade the data_truth label: SAMPLE means the page shows simulated or seed data; LIVE means its facts are live-verified.
+- Contact: hp@cumulativeweb.com
+
+Registered in the CWI Public Registry (https://cumulativewebinc.github.io/agent-deck/registry/) · 2026-09-23
+Cumulative Web Inc — https://cumulativewebinc.github.io/agent-deck/

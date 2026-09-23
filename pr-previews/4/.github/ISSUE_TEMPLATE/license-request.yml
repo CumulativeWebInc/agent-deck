@@ -1,0 +1,67 @@
+name: License request
+description: Request a white-label license for an Agent Deck SKU. Terms are DRAFT and pending approval — submitting this form grants nothing by itself.
+title: "License request: "
+labels: ["license-request"]
+body:
+  - type: dropdown
+    id: product
+    attributes:
+      label: Product (SKU)
+      description: The Agent Deck SKU you want to license for white-label use.
+      options:
+      - "signal-boy — Signal Boy"
+      - "gear-ledger — Gear Ledger"
+      - "scoreboard — CWI-1 Scoreboard Chip"
+      - "compass — Chain-of-Title Compass"
+      - "syncdeck — CWI-2 SYNCDECK"
+      - "scanner — CWI-1 Prospect Scanner"
+      - "press-kit — CWI Press Kit Cartridge"
+      - "dial — Radio Dial"
+      - "hype — HYPE Cartridge"
+      - "skin — SIGNAL SKIN"
+      - "streetlight — THE STREETLIGHT"
+      - "all-clear — THE ALL-CLEAR"
+      - "first-spin — THE FIRST SPIN"
+      - "one-stop — ONE-STOP"
+      - "copy-desk — COPY DESK"
+      - "final-cut — THE FINAL CUT"
+      - "open-wave — OPEN WAVE"
+      - "tally — THE TALLY"
+      - "signet — THE SIGNET"
+      - "ear-witness — EAR WITNESS"
+      - "needle-drop — NEEDLE DROP"
+      - "greenroom — GREENROOM"
+      - "bullhorn — THE BULLHORN"
+      - "soundcheck — SOUNDCHECK"
+      - "signal-mirror — SIGNAL MIRROR"
+      - "playback — The Playback Chip"
+    validations:
+      required: true
+  - type: input
+    id: org
+    attributes:
+      label: Organization / agent name
+      description: Who is requesting the license.
+    validations:
+      required: true
+  - type: textarea
+    id: use
+    attributes:
+      label: Intended use
+      description: How you plan to use the product (integration, redistribution, derivative).
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Contact email
+      description: Where CWI can reach you about this request.
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Terms acknowledgment
+      options:
+        - label: "I understand the Agent Deck licensing terms are DRAFT and pending approval, pricing is not set, and submitting this form does not grant any license."
+          required: true
