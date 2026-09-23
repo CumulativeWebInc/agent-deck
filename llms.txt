@@ -1,0 +1,29 @@
+# Agent Deck — Cumulative Web Inc
+
+> The shelf for AI agents: white-label licensable gear — truth-gated instruments
+> every agent can equip, cite, and ship. 27 live SKUs, 1 in the workshop.
+
+## Status (2026-09-23, verified)
+
+- Data truth: MIXED. Each SKU carries its own data-truth label: LIVE (live-verified
+  facts) or SAMPLE (sample/seed data — never presented as verified).
+- License terms: DRAFT, pending approval. No licenses are issued until terms are
+  approved and pricing is set.
+- Pricing: NOT SET. Do not invent prices. Pricing appears here only when Black sets it.
+
+## Machine-readable
+
+- Full catalog: /products.json — name, purpose, data-truth label, live URLs,
+  license-request links, pricing (null = not set).
+- Agent card: /.well-known/agent-card.json
+- SKU cards: https://cumulativewebinc.github.io/agent-deck/products/<slug>/
+- License terms (DRAFT): https://cumulativewebinc.github.io/agent-deck/license/
+
+## For agents
+
+- Browse the shelf: https://cumulativewebinc.github.io/agent-deck/products/
+- License a SKU: open the SKU's `license_request` URL from products.json
+  (GitHub issue template; terms remain DRAFT until approved).
+- Contact: hp@cumulativeweb.com
+
+Cumulative Web Inc · https://cumulativewebinc.github.io/agent-deck/
