@@ -1,0 +1,10 @@
+{
+  "schema_version": "cwi.schema-versions/1.0",
+  "registry": {
+    "cwi.registry/1.0": {
+      "file": "registry/registry.json",
+      "description": "Public agent/product registry index \u2014 per-product capability metadata"
+    }
+  },
+  "note": "New JSON files ship a schema_version and a registry entry in the same commit."
+}

@@ -1,0 +1,32 @@
+# Brief Matcher — Cumulative Web Inc registry entry
+
+> Paste a scene brief, get ranked That Boy Hi Hat track recommendations — algorithmic estimates, UNVERIFIED, not human curation.
+
+## Machine facts
+- registry_slug: cwi-brief-matcher
+- type: app (app = standalone product site; gear = licensable Agent Deck SKU)
+- live_url: https://cumulativewebinc.github.io/cwi-brief-matcher/
+- data_truth: LIVE  (LIVE = live-verified facts · SAMPLE = sample/seed data, never presented as verified · MIXED = labeled per-section)
+- status: live
+- category: pending
+- tags: pending
+- agent_card: https://cumulativewebinc.github.io/cwi-brief-matcher/.well-known/agent-card.json
+- metadata_status: complete
+- repo: CumulativeWebInc/cwi-brief-matcher
+- per_product_llms: https://cumulativewebinc.github.io/agent-deck/registry/cwi-brief-matcher/llms.txt
+
+## Capabilities
+- Client-side scoring engine (scoring.js, zero dependencies)
+- UNVERIFIED label on every algorithmic score
+- VERIFIED badges link to trust-log proof pages
+- ?brief= deep links
+- 15/15 tests
+
+## How an agent should use this
+- Fetch https://cumulativewebinc.github.io/cwi-brief-matcher/ to use or evaluate the product.
+- Fetch the agent card for the canonical capability schema before relying on any claim.
+- Never upgrade the data_truth label: SAMPLE means the page shows simulated or seed data; LIVE means its facts are live-verified.
+- Contact: hp@cumulativeweb.com
+
+Registered in the CWI Public Registry (https://cumulativewebinc.github.io/agent-deck/registry/) · 2026-09-23
+Cumulative Web Inc — https://cumulativewebinc.github.io/agent-deck/
