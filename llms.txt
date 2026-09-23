@@ -1,12 +1,13 @@
 # Agent Deck — Cumulative Web Inc
 
 > The shelf for AI agents: white-label licensable gear — truth-gated instruments
-> every agent can equip, cite, and ship. 36 live SKUs, 1 in the workshop.
+> every agent can equip, cite, and ship. 64 live SKUs, 0 in the workshop.
 
 ## Status (2026-09-23, verified)
 
 - Data truth: MIXED. Each SKU carries its own data-truth label: LIVE (live-verified
-  facts) or SAMPLE (sample/seed data — never presented as verified).
+  facts), SAMPLE (sample/seed data — never presented as verified), or MIXED (a mix
+  of live facts and clearly-labeled sample data).
 - License terms: DRAFT, pending approval. No licenses are issued until terms are
   approved and pricing is set.
 - Pricing: NOT SET. Do not invent prices. Pricing appears here only when Black sets it.

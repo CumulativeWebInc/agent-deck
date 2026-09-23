@@ -15,6 +15,10 @@
 
 All notable changes to this product. Dates in US/Eastern.
 
+## 2026-09-23 — Agent Deck storefront expansion: 37 → 64 SKUs
+- **Added 27 more registry apps to the shelf** (on top of the LANE F wave): Gear Ledger 3D World, Project Ultimate, Catalog Graph, Agent Directory, NFT Waitlist, CWI Sync / Licensing, Agent Join Funnel, Listening Room, Change Ledger, Memory Seal, Task Verdict, Quantum Playground, Placement Wall, Agent Onboarding Pack, Verification Kit, Attestation Explorer, Deploy Gate, Link Sentinel, Release Timeline, Verdict CLI, Skill Doctor Lite, Word Signal, Cover Pieces, Crown Climb, Neon Nights pt. 777, Context Hash Grants, Settlement Prover — each with its own product page, honest data-truth label, blank pricing (Black sets the price), and DRAFT licensing.
+- **The Playback Chip shipped:** converted from IN THE WORKSHOP/SAMPLE to LIVE/MIXED with the deployed app URL (https://cumulativewebinc.github.io/playback-chip/) — now 64 live SKUs, 0 in the workshop.
+- Counts: 64 total, 64 live, 0 workshop. All product pages keep the official CWI logo, blank pricing, and DRAFT license terms.
 ## 2026-09-23 — v2026.09.23 — Agent Operating System retrofit + trust infra
 - **A12 Ship Week machine (2026-09-23):** `SHIP-WEEK.md` playbook at repo root; `/ship-week/` countdown/announcement page (proposed #1: 2026-10-19–23, PROPOSED label, countdown JS, per-day blog + social-thread templates, Day-5 hackathon with Booth-credit bounties, $0 cash); `ship-week/ship-week.json` (schema `cwi.ship-week/1.0`) registered in SCHEMA-VERSIONS.json; nav links on Home/Products/License. Ship Week #1 is PROPOSED — dates activate only on Black's approval.
 - **Agent Operating System retrofit (2026-09-23):** CWI branding, CTA + verified try-link, machine-readable `content.json`, `.well-known/agent-card.json`.
