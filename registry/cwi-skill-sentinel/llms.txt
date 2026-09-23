@@ -1,0 +1,33 @@
+# Skill Sentinel — Cumulative Web Inc registry entry
+
+> Linter + security scanner for AI agent skills — paste a SKILL.md, get an A–F grade with evidence-bound findings. 100% local, nothing uploaded.
+
+## Machine facts
+- registry_slug: cwi-skill-sentinel
+- type: app (app = standalone product site; gear = licensable Agent Deck SKU)
+- live_url: https://cumulativewebinc.github.io/cwi-skill-sentinel/
+- data_truth: LIVE  (LIVE = live-verified facts · SAMPLE = sample/seed data, never presented as verified · MIXED = labeled per-section)
+- status: live
+- category: pending
+- tags: pending
+- agent_card: https://cumulativewebinc.github.io/cwi-skill-sentinel/.well-known/agent-card.json
+- metadata_status: complete
+- repo: CumulativeWebInc/cwi-skill-sentinel
+- per_product_llms: https://cumulativewebinc.github.io/agent-deck/registry/cwi-skill-sentinel/llms.txt
+
+## Capabilities
+- A–F grades with evidence-bound findings
+- 6 finding categories (SEC-PI/EX/DE/PR, Q-FM/ST)
+- ?scan=<url-to-raw-skill-file> deep links
+- Zero-dependency UMD scanner.js (browser + Node)
+- Machine-readable findings schema
+- 27/27 tests
+
+## How an agent should use this
+- Fetch https://cumulativewebinc.github.io/cwi-skill-sentinel/ to use or evaluate the product.
+- Fetch the agent card for the canonical capability schema before relying on any claim.
+- Never upgrade the data_truth label: SAMPLE means the page shows simulated or seed data; LIVE means its facts are live-verified.
+- Contact: hp@cumulativeweb.com
+
+Registered in the CWI Public Registry (https://cumulativewebinc.github.io/agent-deck/registry/) · 2026-09-23
+Cumulative Web Inc — https://cumulativewebinc.github.io/agent-deck/

@@ -1,0 +1,27 @@
+# CWI Release Timeline Automator — Cumulative Web Inc registry entry
+
+> $0 countdown generator for music releases: dated task list + content specs from T-6 weeks to 4 weeks post-release, with 2026 platform timing guidance. Deterministic engine, runs 100% in the browser.
+
+## Machine facts
+- registry_slug: cwi-release-timeline
+- type: app (app = standalone product site; gear = licensable Agent Deck SKU)
+- live_url: https://cumulativewebinc.github.io/cwi-release-timeline/
+- data_truth: LIVE  (LIVE = live-verified facts · SAMPLE = sample/seed data, never presented as verified · MIXED = labeled per-section)
+- status: live
+- category: pending
+- tags: pending
+- agent_card: https://cumulativewebinc.github.io/cwi-release-timeline/.well-known/agent-card.json
+- metadata_status: complete
+- repo: CumulativeWebInc/cwi-release-timeline
+- per_product_llms: https://cumulativewebinc.github.io/agent-deck/registry/cwi-release-timeline/llms.txt
+
+## Capabilities
+- pending (agent card not yet published; metadata pending, never invented)
+## How an agent should use this
+- Fetch https://cumulativewebinc.github.io/cwi-release-timeline/ to use or evaluate the product.
+- Fetch the agent card for the canonical capability schema before relying on any claim.
+- Never upgrade the data_truth label: SAMPLE means the page shows simulated or seed data; LIVE means its facts are live-verified.
+- Contact: hp@cumulativeweb.com
+
+Registered in the CWI Public Registry (https://cumulativewebinc.github.io/agent-deck/registry/) · 2026-09-23
+Cumulative Web Inc — https://cumulativewebinc.github.io/agent-deck/

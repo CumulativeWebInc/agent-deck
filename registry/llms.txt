@@ -1,0 +1,82 @@
+# CWI Public Registry — Cumulative Web Inc
+
+> The searchable public index of every Cumulative Web Inc product: 36 apps + 28 licensable Agent Deck gear SKUs. 36 app URLs returned HTTP 200 at generation.
+
+## Machine-readable
+- Registry JSON: https://cumulativewebinc.github.io/agent-deck/registry/registry.json (schema_version cwi.registry/1.0) — name, pitch, live_url, category, agent-card link, truth label, tags per product.
+- Per-product llms.txt: https://cumulativewebinc.github.io/agent-deck/registry/<slug>/llms.txt for every product below.
+- Browse: https://cumulativewebinc.github.io/agent-deck/registry/
+
+## Products (slug — truth label — URL)
+- gear-signal-boy — LIVE — https://cumulativewebinc.github.io/cwi-learn/walkman/
+- gear-gear-ledger — LIVE — https://cumulativewebinc.github.io/cwi-learn/agents/ledger.html
+- gear-scoreboard — LIVE — https://cumulativewebinc.github.io/cwi-learn/scoreboard/
+- gear-compass — LIVE — https://cumulativewebinc.github.io/cwi-learn/compass/
+- gear-syncdeck — LIVE — https://cumulativewebinc.github.io/cwi-learn/syncdeck/
+- gear-scanner — LIVE — https://cumulativewebinc.github.io/cwi-learn/scanner/
+- gear-press-kit — LIVE — https://cumulativewebinc.github.io/cwi-learn/press-kit/
+- gear-dial — LIVE — https://cumulativewebinc.github.io/cwi-learn/dial/
+- gear-hype — LIVE — https://cumulativewebinc.github.io/cwi-learn/hype/
+- gear-skin — LIVE — https://cumulativewebinc.github.io/cwi-learn/skin/
+- gear-streetlight — LIVE — https://cumulativewebinc.github.io/cwi-learn/streetlight/
+- gear-all-clear — SAMPLE — https://cumulativewebinc.github.io/cwi-learn/all-clear/
+- gear-first-spin — LIVE — https://cumulativewebinc.github.io/cwi-learn/first-spin/
+- gear-one-stop — LIVE — https://cumulativewebinc.github.io/cwi-learn/one-stop/
+- gear-copy-desk — LIVE — https://cumulativewebinc.github.io/cwi-learn/copy-desk/
+- gear-final-cut — LIVE — https://cumulativewebinc.github.io/cwi-learn/final-cut/
+- gear-open-wave — LIVE — https://cumulativewebinc.github.io/cwi-learn/open-wave/
+- gear-tally — LIVE — https://cumulativewebinc.github.io/cwi-learn/tally/
+- gear-signet — LIVE — https://cumulativewebinc.github.io/cwi-learn/signet/
+- gear-ear-witness — LIVE — https://cumulativewebinc.github.io/cwi-learn/ear-witness/
+- gear-needle-drop — LIVE — https://cumulativewebinc.github.io/cwi-learn/needle-drop/
+- gear-greenroom — LIVE — https://cumulativewebinc.github.io/cwi-learn/greenroom/
+- gear-bullhorn — LIVE — https://cumulativewebinc.github.io/cwi-learn/bullhorn/
+- gear-soundcheck — LIVE — https://cumulativewebinc.github.io/cwi-learn/soundcheck/
+- gear-signal-mirror — LIVE — https://cumulativewebinc.github.io/cwi-learn/signal-mirror/
+- gear-playback — SAMPLE — https://cumulativewebinc.github.io/agent-deck/products/playback/
+- gear-cuefinder — LIVE — https://cumulativewebinc.github.io/cwi-cuefinder/
+- gear-attitude-engine — LIVE — https://cumulativewebinc.github.io/cwi-attitude-engine/
+- gear-ledger-3d-mockup — SAMPLE — https://cumulativewebinc.github.io/gear-ledger-3d-mockup/
+- ultimate — SAMPLE — https://cumulativewebinc.github.io/ultimate/
+- cwi-learn — LIVE — https://cumulativewebinc.github.io/cwi-learn/
+- playback-chip — MIXED — https://cumulativewebinc.github.io/playback-chip/
+- cwi-agent-directory — LIVE — https://cumulativewebinc.github.io/cwi-agent-directory/
+- cwi-nft-waitlist — LIVE — https://cumulativewebinc.github.io/cwi-nft-waitlist/
+- cwi-sync — LIVE — https://cumulativewebinc.github.io/cwi-sync/
+- agent-deck — MIXED — https://cumulativewebinc.github.io/agent-deck/
+- ultimate-join — LIVE — https://cumulativewebinc.github.io/ultimate/join/
+- cwi-sync-audition — LIVE — https://cumulativewebinc.github.io/cwi-sync-audition/
+- cwi-brief-matcher — LIVE — https://cumulativewebinc.github.io/cwi-brief-matcher/
+- cwi-trust-log — LIVE — https://cumulativewebinc.github.io/cwi-trust-log/
+- cwi-skill-sentinel — LIVE — https://cumulativewebinc.github.io/cwi-skill-sentinel/
+- cwi-verdict-watch — LIVE — https://cumulativewebinc.github.io/cwi-verdict-watch/
+- cwi-sonic-search — LIVE — https://cumulativewebinc.github.io/cwi-sonic-search/
+- cwi-context-grants — LIVE — https://cumulativewebinc.github.io/cwi-context-grants/
+- cwi-settlement-prover — LIVE — https://cumulativewebinc.github.io/cwi-settlement-prover/
+- cwi-listening-room — LIVE — https://cumulativewebinc.github.io/cwi-listening-room/
+- cwi-change-ledger — LIVE — https://cumulativewebinc.github.io/cwi-change-ledger/
+- cwi-identity-ledger — LIVE — https://cumulativewebinc.github.io/cwi-identity-ledger/
+- cwi-memory-seal — LIVE — https://cumulativewebinc.github.io/cwi-memory-seal/
+- cwi-cuefinder — LIVE — https://cumulativewebinc.github.io/cwi-cuefinder/
+- cwi-task-verdict — LIVE — https://cumulativewebinc.github.io/cwi-task-verdict/
+- cwi-attitude-engine — LIVE — https://cumulativewebinc.github.io/cwi-attitude-engine/
+- cwi-quantum-playground — LIVE — https://cumulativewebinc.github.io/cwi-quantum-playground/
+- cwi-placement-wall — LIVE — https://cumulativewebinc.github.io/cwi-placement-wall/
+- cwi-onboarding-pack — LIVE — https://cumulativewebinc.github.io/cwi-onboarding-pack/
+- cwi-verification-kit — LIVE — https://cumulativewebinc.github.io/cwi-verification-kit/
+- cwi-trust-attestation-explorer — LIVE — https://cumulativewebinc.github.io/cwi-trust-attestation-explorer/
+- cwi-trust-deploy-gate — LIVE — https://cumulativewebinc.github.io/cwi-trust-deploy-gate/
+- cwi-link-sentinel — LIVE — https://cumulativewebinc.github.io/cwi-link-sentinel/
+- cwi-release-timeline — LIVE — https://cumulativewebinc.github.io/cwi-release-timeline/
+- cwi-verdict-cli — LIVE — https://cumulativewebinc.github.io/cwi-verdict-cli/
+- cwi-twenty-minds — LIVE — https://cumulativewebinc.github.io/cwi-twenty-minds/
+- cwi-skill-doctor — LIVE — https://cumulativewebinc.github.io/cwi-skill-doctor/
+- cwi-kingcode-lens — LIVE — https://cumulativewebinc.github.io/cwi-kingcode-lens/
+
+## Rules of this registry
+- Truth labels are copied from the registry of record (CWI Apps Registry / products.json); SAMPLE is never silently upgraded to LIVE.
+- Products with metadata_status=pending have no agent card yet; their fields are marked pending, never invented.
+- Kill rule: fewer than 50 external registry hits in 30 days -> rework discovery, not the registry.
+- Contact: hp@cumulativeweb.com
+
+Generated 2026-09-23 · Cumulative Web Inc

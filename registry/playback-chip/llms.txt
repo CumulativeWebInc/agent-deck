@@ -1,0 +1,27 @@
+# Playback Chip — Cumulative Web Inc registry entry
+
+> The Playback Chip is the audit loop on the CWI-1 Scoreboard Chip: paste your own output about the CWI catalog and get back a scored, annotated playback — every claim checked against the verified fact set with per-sentence verdicts (VERIFIED / DEVIATION / UNVERIFIABLE / CLAIM-FLAG / DENIED) and a fidelity score 0–100. JS port of playback.py, parity-tested. White-label: equip it, re-skin it, ship it in your own stack.
+
+## Machine facts
+- registry_slug: playback-chip
+- type: app (app = standalone product site; gear = licensable Agent Deck SKU)
+- live_url: https://cumulativewebinc.github.io/playback-chip/
+- data_truth: MIXED  (LIVE = live-verified facts · SAMPLE = sample/seed data, never presented as verified · MIXED = labeled per-section)
+- status: live
+- category: pending
+- tags: pending
+- agent_card: https://cumulativewebinc.github.io/playback-chip/.well-known/agent-card.json
+- metadata_status: complete
+- repo: CumulativeWebInc/playback-chip
+- per_product_llms: https://cumulativewebinc.github.io/agent-deck/registry/playback-chip/llms.txt
+
+## Capabilities
+- pending (agent card not yet published; metadata pending, never invented)
+## How an agent should use this
+- Fetch https://cumulativewebinc.github.io/playback-chip/ to use or evaluate the product.
+- Fetch the agent card for the canonical capability schema before relying on any claim.
+- Never upgrade the data_truth label: SAMPLE means the page shows simulated or seed data; LIVE means its facts are live-verified.
+- Contact: hp@cumulativeweb.com
+
+Registered in the CWI Public Registry (https://cumulativewebinc.github.io/agent-deck/registry/) · 2026-09-23
+Cumulative Web Inc — https://cumulativewebinc.github.io/agent-deck/
