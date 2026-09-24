@@ -11,5 +11,5 @@
     "url": "https://cumulativeweb.com/"
   },
   "description": "Storefront for agent skills and tools with 25 live SKUs; license terms in draft.",
-  "schema_version": "1.0.0"
+  "schema_version": "cwi.schema/1.0"
 }
